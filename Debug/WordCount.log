@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\2345Downloads\WordCount\源.cpp(304,34): warning C4083: 应输入“newline”；找到标识符“；”
+D:\2345Downloads\WordCount\源.cpp(308,10): warning C4101: “filename”: 未引用的局部变量
+D:\2345Downloads\WordCount\源.cpp(307,10): warning C4101: “parameter”: 未引用的局部变量
+  WordCount.vcxproj -> D:\2345Downloads\WordCount\Debug\WordCount.exe
